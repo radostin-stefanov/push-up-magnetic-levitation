@@ -1,1 +1,1 @@
-# push-up-magnetic-levitation
+# pull-up-magnetic-levitation
